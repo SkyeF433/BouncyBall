@@ -1,2 +1,2 @@
-# BouncyBall
-A bouncy ball created with physics engine
+# staticSquare
+A static square made using Matter.js physics engine
